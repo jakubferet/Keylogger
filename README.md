@@ -13,7 +13,7 @@ Aplikace pro "odchytávání" stisknutých kláves a jejich odesílání přes e
 - Formátuje je do čitelnější podoby
 - Ve stanoveném časovém intervalu odesílá stisknuté klávesy na email
 
-## TODO:
+### TODO:
 
 - Obejít antivirus (program funguje jen s vypnutým antivirem)
 
